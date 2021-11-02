@@ -1,0 +1,23 @@
+.topnav a {
+  float: right;
+  text-align: center;
+  margin: 0px 150px;
+  padding:14px;
+  text-decoration: none;
+  font-size: 17px;
+
+
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.description{
+    clear: both;
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/golden-retriever-royalty-free-image-506756303-1560962726.jpg?crop=1.00xw:0.756xh;0,0.0756xh&resize=980:*);
+    background-size: contain;
+    padding-bottom: 200px;
+}
+p{
+    color: beige;
+}
