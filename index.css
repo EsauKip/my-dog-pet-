@@ -48,6 +48,9 @@ table, th, td {
   padding: 150px;
   background-color: cyan;
 }
-
+.sec{
+  background-color: darkblue;
+  padding-top: 50px;
+}
 
 
