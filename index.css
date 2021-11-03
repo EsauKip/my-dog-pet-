@@ -14,10 +14,40 @@
 }
 .description{
     clear: both;
-    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/golden-retriever-royalty-free-image-506756303-1560962726.jpg?crop=1.00xw:0.756xh;0,0.0756xh&resize=980:*);
-    background-size: contain;
-    padding-bottom: 200px;
+    background: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/golden-retriever-royalty-free-image-506756303-1560962726.jpg?crop=1.00xw:0.756xh;0,0.0756xh&resize=980:*);
+    background-size: cover;
+    padding-bottom: 100px;
+    background-repeat: no-repeat;
 }
 p{
-    color: beige;
+    color: rgb(255, 255, 255);
 }
+.content-1 p{
+  display: flex;
+  color: black;
+
+
+}
+.content-2 p{
+  display: flex;
+  color: black;
+  padding: 0 150px;
+  margin: 0 35px;
+ 
+
+
+}
+.gallery{
+  display: flex;
+}
+table, th, td {
+  border:1px solid black;
+}
+.kennel{
+  display: flex;
+  padding: 150px;
+  background-color: cyan;
+}
+
+
+
