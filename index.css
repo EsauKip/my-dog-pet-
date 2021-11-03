@@ -14,34 +14,46 @@
 }
 .description{
     clear: both;
-    background: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/golden-retriever-royalty-free-image-506756303-1560962726.jpg?crop=1.00xw:0.756xh;0,0.0756xh&resize=980:*);
+    background: url(https://media.istockphoto.com/photos/labrador-retriever-12-months-old-sitting-picture-id450726311?k=20&m=450726311&s=612x612&w=0&h=6gUrHrWD6HV4q3gURf1uKFx7zNjMscDy7AMlZrhGplE=);
     background-size: cover;
     padding-bottom: 100px;
     background-repeat: no-repeat;
 }
 p{
-    color: rgb(255, 255, 255);
+    color: rgb(7, 7, 7);
+    font-size: 26px;
 }
 .content-1 p{
   display: flex;
   color: black;
+  margin: 50px;
 
 
 }
 .content-2 p{
   display: flex;
   color: black;
+  padding: 0 100px 35px;
+  margin: 0 35px;
+}
+ 
+.content-3 p{
+  display: flex;
+  color: black;
   padding: 0 150px;
   margin: 0 35px;
  
-
 
 }
 .gallery{
   display: flex;
 }
 table, th, td {
-  border:1px solid black;
+  border:1px solid rgb(161, 76, 76);
+  padding: 20px;
+  margin: 54px;border-collapse: collapse;color: blanchedalmond;
+  font-size: 20px;
+
 }
 .kennel{
   display: flex;
@@ -50,7 +62,17 @@ table, th, td {
 }
 .sec{
   background-color: darkblue;
-  padding-top: 50px;
+  padding: 50px;
+  background-size: cover;
 }
+footer{
+  text-align: center;
+  background-image:url(Images/golden-retriever-royalty-free-image-506756303-1560962726\ \(copy\).jpg);
+  background-size: cover;
+  padding-top: 50px;
 
+}
+footer p{
+  color: black;
+}
 
